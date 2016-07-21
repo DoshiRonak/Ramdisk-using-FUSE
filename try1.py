@@ -6,6 +6,7 @@ d = ['Rohith','Slave',['stu','vwx']]
 e = ['Ronak','Master',['xyz','123']]
 f = ['Rohith','Slave',['456','789']]
 '''
+
 dict = {}
 
 with open('input.txt','r') as f:
